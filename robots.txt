@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aacute1.github.io/aacut.github.in/sitemap.xml
